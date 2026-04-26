@@ -3,4 +3,7 @@
 GET {{tpmodul9_103082400044_HostAddress}}/weatherforecast/
 Accept: application/json
 
+
+GET {{tpmodul9_103082400044_HostAddress}}/Mahasiswa/
+Accept: application/json
 ###
